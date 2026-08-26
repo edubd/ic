@@ -1,0 +1,16 @@
+base de sátiras -> https://github.com/schuberty/PLNCrawler
+
+variáveis definidas na aula de 26.08 (engenharia de características)
+
+- quantidade de adjetivos positivos (negativos?) do texto
+- quantidade de palavras positivas (negativas?) do texto
+- quantidade de "!" (pontuações?)
+- quantidade de interjeições (léxico de interjeições)
+- presença de aspas (binário)
+- palavras informais (índice de Flesh) ou quantidade de informais
+- quantidade de advérbios de intensidade
+- quantidade de aumentativos  (ver se tem lista)
+- quantidade de diminutivos   (ver se tem lista)
+- (quantidade ou) presença de conjunções adversativas
+- quantidade de palavras neutras?
+- distância média entre palavras positivas e negativas (0 se não existir)
