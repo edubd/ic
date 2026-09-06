@@ -1,0 +1,12 @@
+* Notebook 1: https://colab.research.google.com/drive/16MTwGgGTxKvtglQdiXMAFug6LvkJynlF?usp=sharing
+
+- Realiza do processo de engenharia de características do corpus de notícias reais e satíricas
+- Cada texto é transformado em um vetor de 40 atributos (13 definidos em sala de aula e 27 sugeridos em um artigo)
+- No final, gera o arquivo CSV "bd_satiras2_estruturado.csv" com a base no formato estruturado (tabular)
+  - Já coloquei esse arquivo no GitHub da disciplina
+
+
+* Notebook 2: https://colab.research.google.com/drive/1W490jjS5o96IlU-QYPYJAGVmF46KKojJ?usp=sharing
+
+- Gera uma AD a partir da base de sátiras no formato estruturado
+
