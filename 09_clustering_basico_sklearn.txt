@@ -1,0 +1,10 @@
+Notebooks:
+
+1) Clustering - Algoritmo k-Means
+
+https://colab.research.google.com/drive/13_6zPmMkBssHzToBEsx62sr5OpZwlehk?usp=sharing
+
+
+2) Clustering - Método do Cotovelo e Silhueta
+
+https://colab.research.google.com/drive/12H0hos8ZAilNEt14P5zGMF8tWccW4UAQ?usp=sharing
